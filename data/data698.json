@@ -1,0 +1,2844 @@
+{
+    "links": [
+        {
+            "source": "698", 
+            "target": "753"
+        }, 
+        {
+            "source": "698", 
+            "target": "881"
+        }, 
+        {
+            "source": "698", 
+            "target": "769"
+        }, 
+        {
+            "source": "698", 
+            "target": "708"
+        }, 
+        {
+            "source": "698", 
+            "target": "745"
+        }, 
+        {
+            "source": "698", 
+            "target": "885"
+        }, 
+        {
+            "source": "698", 
+            "target": "884"
+        }, 
+        {
+            "source": "698", 
+            "target": "858"
+        }, 
+        {
+            "source": "698", 
+            "target": "889"
+        }, 
+        {
+            "source": "698", 
+            "target": "888"
+        }, 
+        {
+            "source": "698", 
+            "target": "859"
+        }, 
+        {
+            "source": "698", 
+            "target": "893"
+        }, 
+        {
+            "source": "698", 
+            "target": "804"
+        }, 
+        {
+            "source": "698", 
+            "target": "887"
+        }, 
+        {
+            "source": "698", 
+            "target": "798"
+        }, 
+        {
+            "source": "698", 
+            "target": "823"
+        }, 
+        {
+            "source": "698", 
+            "target": "886"
+        }, 
+        {
+            "source": "698", 
+            "target": "856"
+        }, 
+        {
+            "source": "698", 
+            "target": "857"
+        }, 
+        {
+            "source": "698", 
+            "target": "697"
+        }, 
+        {
+            "source": "698", 
+            "target": "878"
+        }, 
+        {
+            "source": "698", 
+            "target": "879"
+        }, 
+        {
+            "source": "698", 
+            "target": "876"
+        }, 
+        {
+            "source": "698", 
+            "target": "877"
+        }, 
+        {
+            "source": "698", 
+            "target": "874"
+        }, 
+        {
+            "source": "698", 
+            "target": "747"
+        }, 
+        {
+            "source": "698", 
+            "target": "872"
+        }, 
+        {
+            "source": "698", 
+            "target": "873"
+        }, 
+        {
+            "source": "698", 
+            "target": "870"
+        }, 
+        {
+            "source": "698", 
+            "target": "871"
+        }, 
+        {
+            "source": "698", 
+            "target": "819"
+        }, 
+        {
+            "source": "698", 
+            "target": "810"
+        }, 
+        {
+            "source": "698", 
+            "target": "811"
+        }, 
+        {
+            "source": "698", 
+            "target": "882"
+        }, 
+        {
+            "source": "698", 
+            "target": "890"
+        }, 
+        {
+            "source": "698", 
+            "target": "774"
+        }, 
+        {
+            "source": "698", 
+            "target": "776"
+        }, 
+        {
+            "source": "698", 
+            "target": "894"
+        }, 
+        {
+            "source": "698", 
+            "target": "895"
+        }, 
+        {
+            "source": "698", 
+            "target": "719"
+        }, 
+        {
+            "source": "698", 
+            "target": "772"
+        }, 
+        {
+            "source": "698", 
+            "target": "713"
+        }, 
+        {
+            "source": "698", 
+            "target": "830"
+        }, 
+        {
+            "source": "698", 
+            "target": "825"
+        }, 
+        {
+            "source": "698", 
+            "target": "703"
+        }, 
+        {
+            "source": "698", 
+            "target": "869"
+        }, 
+        {
+            "source": "698", 
+            "target": "868"
+        }, 
+        {
+            "source": "698", 
+            "target": "840"
+        }, 
+        {
+            "source": "698", 
+            "target": "861"
+        }, 
+        {
+            "source": "698", 
+            "target": "863"
+        }, 
+        {
+            "source": "698", 
+            "target": "862"
+        }, 
+        {
+            "source": "698", 
+            "target": "865"
+        }, 
+        {
+            "source": "698", 
+            "target": "864"
+        }, 
+        {
+            "source": "698", 
+            "target": "867"
+        }, 
+        {
+            "source": "698", 
+            "target": "866"
+        }, 
+        {
+            "source": "698", 
+            "target": "828"
+        }, 
+        {
+            "source": "698", 
+            "target": "803"
+        }, 
+        {
+            "source": "698", 
+            "target": "800"
+        }, 
+        {
+            "source": "698", 
+            "target": "880"
+        }, 
+        {
+            "source": "698", 
+            "target": "805"
+        }, 
+        {
+            "source": "698", 
+            "target": "729"
+        }, 
+        {
+            "source": "881", 
+            "target": "858"
+        }, 
+        {
+            "source": "828", 
+            "target": "697"
+        }, 
+        {
+            "source": "884", 
+            "target": "864"
+        }, 
+        {
+            "source": "856", 
+            "target": "869"
+        }, 
+        {
+            "source": "889", 
+            "target": "856"
+        }, 
+        {
+            "source": "872", 
+            "target": "873"
+        }, 
+        {
+            "source": "719", 
+            "target": "713"
+        }, 
+        {
+            "source": "861", 
+            "target": "863"
+        }, 
+        {
+            "source": "840", 
+            "target": "803"
+        }, 
+        {
+            "source": "864", 
+            "target": "856"
+        }, 
+        {
+            "source": "719", 
+            "target": "840"
+        }, 
+        {
+            "source": "745", 
+            "target": "805"
+        }, 
+        {
+            "source": "865", 
+            "target": "857"
+        }, 
+        {
+            "source": "874", 
+            "target": "873"
+        }, 
+        {
+            "source": "708", 
+            "target": "823"
+        }, 
+        {
+            "source": "872", 
+            "target": "885"
+        }, 
+        {
+            "source": "870", 
+            "target": "871"
+        }, 
+        {
+            "source": "888", 
+            "target": "889"
+        }, 
+        {
+            "source": "825", 
+            "target": "889"
+        }, 
+        {
+            "source": "869", 
+            "target": "774"
+        }, 
+        {
+            "source": "729", 
+            "target": "888"
+        }, 
+        {
+            "source": "769", 
+            "target": "869"
+        }, 
+        {
+            "source": "823", 
+            "target": "840"
+        }, 
+        {
+            "source": "861", 
+            "target": "729"
+        }, 
+        {
+            "source": "774", 
+            "target": "769"
+        }, 
+        {
+            "source": "805", 
+            "target": "800"
+        }, 
+        {
+            "source": "713", 
+            "target": "819"
+        }, 
+        {
+            "source": "774", 
+            "target": "856"
+        }, 
+        {
+            "source": "885", 
+            "target": "859"
+        }, 
+        {
+            "source": "729", 
+            "target": "876"
+        }, 
+        {
+            "source": "872", 
+            "target": "887"
+        }, 
+        {
+            "source": "895", 
+            "target": "881"
+        }, 
+        {
+            "source": "697", 
+            "target": "890"
+        }, 
+        {
+            "source": "823", 
+            "target": "810"
+        }, 
+        {
+            "source": "870", 
+            "target": "895"
+        }, 
+        {
+            "source": "871", 
+            "target": "879"
+        }, 
+        {
+            "source": "823", 
+            "target": "753"
+        }, 
+        {
+            "source": "819", 
+            "target": "719"
+        }, 
+        {
+            "source": "708", 
+            "target": "869"
+        }, 
+        {
+            "source": "719", 
+            "target": "810"
+        }, 
+        {
+            "source": "745", 
+            "target": "830"
+        }, 
+        {
+            "source": "747", 
+            "target": "830"
+        }, 
+        {
+            "source": "774", 
+            "target": "810"
+        }, 
+        {
+            "source": "856", 
+            "target": "747"
+        }, 
+        {
+            "source": "879", 
+            "target": "881"
+        }, 
+        {
+            "source": "776", 
+            "target": "874"
+        }, 
+        {
+            "source": "774", 
+            "target": "805"
+        }, 
+        {
+            "source": "747", 
+            "target": "819"
+        }, 
+        {
+            "source": "772", 
+            "target": "828"
+        }, 
+        {
+            "source": "888", 
+            "target": "804"
+        }, 
+        {
+            "source": "890", 
+            "target": "753"
+        }, 
+        {
+            "source": "889", 
+            "target": "886"
+        }, 
+        {
+            "source": "856", 
+            "target": "864"
+        }, 
+        {
+            "source": "864", 
+            "target": "893"
+        }, 
+        {
+            "source": "747", 
+            "target": "719"
+        }, 
+        {
+            "source": "861", 
+            "target": "889"
+        }, 
+        {
+            "source": "819", 
+            "target": "708"
+        }, 
+        {
+            "source": "769", 
+            "target": "811"
+        }, 
+        {
+            "source": "867", 
+            "target": "874"
+        }, 
+        {
+            "source": "887", 
+            "target": "874"
+        }, 
+        {
+            "source": "868", 
+            "target": "857"
+        }, 
+        {
+            "source": "828", 
+            "target": "810"
+        }, 
+        {
+            "source": "878", 
+            "target": "889"
+        }, 
+        {
+            "source": "889", 
+            "target": "753"
+        }, 
+        {
+            "source": "719", 
+            "target": "772"
+        }, 
+        {
+            "source": "819", 
+            "target": "823"
+        }, 
+        {
+            "source": "867", 
+            "target": "877"
+        }, 
+        {
+            "source": "819", 
+            "target": "828"
+        }, 
+        {
+            "source": "876", 
+            "target": "889"
+        }, 
+        {
+            "source": "708", 
+            "target": "819"
+        }, 
+        {
+            "source": "828", 
+            "target": "856"
+        }, 
+        {
+            "source": "856", 
+            "target": "708"
+        }, 
+        {
+            "source": "800", 
+            "target": "810"
+        }, 
+        {
+            "source": "708", 
+            "target": "830"
+        }, 
+        {
+            "source": "729", 
+            "target": "882"
+        }, 
+        {
+            "source": "887", 
+            "target": "776"
+        }, 
+        {
+            "source": "867", 
+            "target": "776"
+        }, 
+        {
+            "source": "719", 
+            "target": "774"
+        }, 
+        {
+            "source": "861", 
+            "target": "804"
+        }, 
+        {
+            "source": "856", 
+            "target": "878"
+        }, 
+        {
+            "source": "772", 
+            "target": "713"
+        }, 
+        {
+            "source": "894", 
+            "target": "879"
+        }, 
+        {
+            "source": "810", 
+            "target": "747"
+        }, 
+        {
+            "source": "772", 
+            "target": "805"
+        }, 
+        {
+            "source": "774", 
+            "target": "719"
+        }, 
+        {
+            "source": "753", 
+            "target": "708"
+        }, 
+        {
+            "source": "697", 
+            "target": "830"
+        }, 
+        {
+            "source": "772", 
+            "target": "856"
+        }, 
+        {
+            "source": "885", 
+            "target": "877"
+        }, 
+        {
+            "source": "886", 
+            "target": "889"
+        }, 
+        {
+            "source": "745", 
+            "target": "810"
+        }, 
+        {
+            "source": "729", 
+            "target": "804"
+        }, 
+        {
+            "source": "840", 
+            "target": "823"
+        }, 
+        {
+            "source": "887", 
+            "target": "872"
+        }, 
+        {
+            "source": "893", 
+            "target": "856"
+        }, 
+        {
+            "source": "697", 
+            "target": "753"
+        }, 
+        {
+            "source": "810", 
+            "target": "823"
+        }, 
+        {
+            "source": "804", 
+            "target": "863"
+        }, 
+        {
+            "source": "805", 
+            "target": "713"
+        }, 
+        {
+            "source": "713", 
+            "target": "823"
+        }, 
+        {
+            "source": "830", 
+            "target": "800"
+        }, 
+        {
+            "source": "881", 
+            "target": "871"
+        }, 
+        {
+            "source": "890", 
+            "target": "708"
+        }, 
+        {
+            "source": "830", 
+            "target": "745"
+        }, 
+        {
+            "source": "866", 
+            "target": "881"
+        }, 
+        {
+            "source": "863", 
+            "target": "804"
+        }, 
+        {
+            "source": "800", 
+            "target": "805"
+        }, 
+        {
+            "source": "840", 
+            "target": "708"
+        }, 
+        {
+            "source": "859", 
+            "target": "885"
+        }, 
+        {
+            "source": "828", 
+            "target": "880"
+        }, 
+        {
+            "source": "868", 
+            "target": "865"
+        }, 
+        {
+            "source": "889", 
+            "target": "825"
+        }, 
+        {
+            "source": "745", 
+            "target": "747"
+        }, 
+        {
+            "source": "884", 
+            "target": "825"
+        }, 
+        {
+            "source": "888", 
+            "target": "861"
+        }, 
+        {
+            "source": "872", 
+            "target": "867"
+        }, 
+        {
+            "source": "889", 
+            "target": "729"
+        }, 
+        {
+            "source": "830", 
+            "target": "713"
+        }, 
+        {
+            "source": "747", 
+            "target": "713"
+        }, 
+        {
+            "source": "856", 
+            "target": "804"
+        }, 
+        {
+            "source": "856", 
+            "target": "825"
+        }, 
+        {
+            "source": "871", 
+            "target": "857"
+        }, 
+        {
+            "source": "800", 
+            "target": "719"
+        }, 
+        {
+            "source": "886", 
+            "target": "863"
+        }, 
+        {
+            "source": "703", 
+            "target": "828"
+        }, 
+        {
+            "source": "866", 
+            "target": "879"
+        }, 
+        {
+            "source": "800", 
+            "target": "774"
+        }, 
+        {
+            "source": "819", 
+            "target": "880"
+        }, 
+        {
+            "source": "805", 
+            "target": "830"
+        }, 
+        {
+            "source": "753", 
+            "target": "769"
+        }, 
+        {
+            "source": "772", 
+            "target": "800"
+        }, 
+        {
+            "source": "697", 
+            "target": "800"
+        }, 
+        {
+            "source": "708", 
+            "target": "713"
+        }, 
+        {
+            "source": "823", 
+            "target": "719"
+        }, 
+        {
+            "source": "819", 
+            "target": "753"
+        }, 
+        {
+            "source": "856", 
+            "target": "840"
+        }, 
+        {
+            "source": "886", 
+            "target": "729"
+        }, 
+        {
+            "source": "876", 
+            "target": "886"
+        }, 
+        {
+            "source": "804", 
+            "target": "876"
+        }, 
+        {
+            "source": "708", 
+            "target": "747"
+        }, 
+        {
+            "source": "873", 
+            "target": "776"
+        }, 
+        {
+            "source": "769", 
+            "target": "828"
+        }, 
+        {
+            "source": "885", 
+            "target": "872"
+        }, 
+        {
+            "source": "713", 
+            "target": "774"
+        }, 
+        {
+            "source": "885", 
+            "target": "873"
+        }, 
+        {
+            "source": "869", 
+            "target": "856"
+        }, 
+        {
+            "source": "811", 
+            "target": "856"
+        }, 
+        {
+            "source": "800", 
+            "target": "697"
+        }, 
+        {
+            "source": "823", 
+            "target": "805"
+        }, 
+        {
+            "source": "885", 
+            "target": "776"
+        }, 
+        {
+            "source": "747", 
+            "target": "810"
+        }, 
+        {
+            "source": "697", 
+            "target": "823"
+        }, 
+        {
+            "source": "703", 
+            "target": "819"
+        }, 
+        {
+            "source": "811", 
+            "target": "800"
+        }, 
+        {
+            "source": "753", 
+            "target": "729"
+        }, 
+        {
+            "source": "774", 
+            "target": "811"
+        }, 
+        {
+            "source": "879", 
+            "target": "894"
+        }, 
+        {
+            "source": "825", 
+            "target": "884"
+        }, 
+        {
+            "source": "747", 
+            "target": "774"
+        }, 
+        {
+            "source": "870", 
+            "target": "894"
+        }, 
+        {
+            "source": "713", 
+            "target": "805"
+        }, 
+        {
+            "source": "884", 
+            "target": "893"
+        }, 
+        {
+            "source": "729", 
+            "target": "856"
+        }, 
+        {
+            "source": "747", 
+            "target": "804"
+        }, 
+        {
+            "source": "747", 
+            "target": "769"
+        }, 
+        {
+            "source": "745", 
+            "target": "800"
+        }, 
+        {
+            "source": "774", 
+            "target": "708"
+        }, 
+        {
+            "source": "810", 
+            "target": "856"
+        }, 
+        {
+            "source": "856", 
+            "target": "772"
+        }, 
+        {
+            "source": "869", 
+            "target": "811"
+        }, 
+        {
+            "source": "703", 
+            "target": "747"
+        }, 
+        {
+            "source": "877", 
+            "target": "867"
+        }, 
+        {
+            "source": "811", 
+            "target": "890"
+        }, 
+        {
+            "source": "856", 
+            "target": "888"
+        }, 
+        {
+            "source": "867", 
+            "target": "872"
+        }, 
+        {
+            "source": "703", 
+            "target": "805"
+        }, 
+        {
+            "source": "719", 
+            "target": "697"
+        }, 
+        {
+            "source": "800", 
+            "target": "713"
+        }, 
+        {
+            "source": "713", 
+            "target": "810"
+        }, 
+        {
+            "source": "729", 
+            "target": "863"
+        }, 
+        {
+            "source": "888", 
+            "target": "876"
+        }, 
+        {
+            "source": "856", 
+            "target": "863"
+        }, 
+        {
+            "source": "889", 
+            "target": "888"
+        }, 
+        {
+            "source": "876", 
+            "target": "856"
+        }, 
+        {
+            "source": "823", 
+            "target": "830"
+        }, 
+        {
+            "source": "747", 
+            "target": "803"
+        }, 
+        {
+            "source": "886", 
+            "target": "878"
+        }, 
+        {
+            "source": "774", 
+            "target": "869"
+        }, 
+        {
+            "source": "776", 
+            "target": "867"
+        }, 
+        {
+            "source": "811", 
+            "target": "769"
+        }, 
+        {
+            "source": "873", 
+            "target": "872"
+        }, 
+        {
+            "source": "857", 
+            "target": "868"
+        }, 
+        {
+            "source": "869", 
+            "target": "890"
+        }, 
+        {
+            "source": "719", 
+            "target": "819"
+        }, 
+        {
+            "source": "889", 
+            "target": "878"
+        }, 
+        {
+            "source": "840", 
+            "target": "830"
+        }, 
+        {
+            "source": "828", 
+            "target": "830"
+        }, 
+        {
+            "source": "697", 
+            "target": "828"
+        }, 
+        {
+            "source": "774", 
+            "target": "747"
+        }, 
+        {
+            "source": "747", 
+            "target": "697"
+        }, 
+        {
+            "source": "830", 
+            "target": "708"
+        }, 
+        {
+            "source": "819", 
+            "target": "747"
+        }, 
+        {
+            "source": "871", 
+            "target": "895"
+        }, 
+        {
+            "source": "776", 
+            "target": "873"
+        }, 
+        {
+            "source": "856", 
+            "target": "810"
+        }, 
+        {
+            "source": "864", 
+            "target": "825"
+        }, 
+        {
+            "source": "828", 
+            "target": "703"
+        }, 
+        {
+            "source": "774", 
+            "target": "800"
+        }, 
+        {
+            "source": "708", 
+            "target": "769"
+        }, 
+        {
+            "source": "769", 
+            "target": "800"
+        }, 
+        {
+            "source": "800", 
+            "target": "747"
+        }, 
+        {
+            "source": "823", 
+            "target": "703"
+        }, 
+        {
+            "source": "890", 
+            "target": "811"
+        }, 
+        {
+            "source": "803", 
+            "target": "747"
+        }, 
+        {
+            "source": "890", 
+            "target": "769"
+        }, 
+        {
+            "source": "856", 
+            "target": "769"
+        }, 
+        {
+            "source": "887", 
+            "target": "867"
+        }, 
+        {
+            "source": "697", 
+            "target": "819"
+        }, 
+        {
+            "source": "840", 
+            "target": "697"
+        }, 
+        {
+            "source": "753", 
+            "target": "856"
+        }, 
+        {
+            "source": "697", 
+            "target": "772"
+        }, 
+        {
+            "source": "886", 
+            "target": "804"
+        }, 
+        {
+            "source": "865", 
+            "target": "868"
+        }, 
+        {
+            "source": "729", 
+            "target": "753"
+        }, 
+        {
+            "source": "811", 
+            "target": "708"
+        }, 
+        {
+            "source": "697", 
+            "target": "719"
+        }, 
+        {
+            "source": "819", 
+            "target": "703"
+        }, 
+        {
+            "source": "830", 
+            "target": "840"
+        }, 
+        {
+            "source": "823", 
+            "target": "708"
+        }, 
+        {
+            "source": "697", 
+            "target": "745"
+        }, 
+        {
+            "source": "708", 
+            "target": "753"
+        }, 
+        {
+            "source": "894", 
+            "target": "870"
+        }, 
+        {
+            "source": "708", 
+            "target": "719"
+        }, 
+        {
+            "source": "805", 
+            "target": "880"
+        }, 
+        {
+            "source": "881", 
+            "target": "879"
+        }, 
+        {
+            "source": "697", 
+            "target": "856"
+        }, 
+        {
+            "source": "823", 
+            "target": "856"
+        }, 
+        {
+            "source": "747", 
+            "target": "823"
+        }, 
+        {
+            "source": "828", 
+            "target": "819"
+        }, 
+        {
+            "source": "708", 
+            "target": "697"
+        }, 
+        {
+            "source": "774", 
+            "target": "745"
+        }, 
+        {
+            "source": "878", 
+            "target": "888"
+        }, 
+        {
+            "source": "872", 
+            "target": "776"
+        }, 
+        {
+            "source": "747", 
+            "target": "805"
+        }, 
+        {
+            "source": "800", 
+            "target": "823"
+        }, 
+        {
+            "source": "810", 
+            "target": "800"
+        }, 
+        {
+            "source": "803", 
+            "target": "840"
+        }, 
+        {
+            "source": "804", 
+            "target": "882"
+        }, 
+        {
+            "source": "747", 
+            "target": "856"
+        }, 
+        {
+            "source": "878", 
+            "target": "886"
+        }, 
+        {
+            "source": "753", 
+            "target": "890"
+        }, 
+        {
+            "source": "830", 
+            "target": "697"
+        }, 
+        {
+            "source": "769", 
+            "target": "890"
+        }, 
+        {
+            "source": "866", 
+            "target": "895"
+        }, 
+        {
+            "source": "828", 
+            "target": "823"
+        }, 
+        {
+            "source": "828", 
+            "target": "745"
+        }, 
+        {
+            "source": "882", 
+            "target": "729"
+        }, 
+        {
+            "source": "890", 
+            "target": "869"
+        }, 
+        {
+            "source": "769", 
+            "target": "774"
+        }, 
+        {
+            "source": "708", 
+            "target": "811"
+        }, 
+        {
+            "source": "856", 
+            "target": "823"
+        }, 
+        {
+            "source": "880", 
+            "target": "823"
+        }, 
+        {
+            "source": "804", 
+            "target": "888"
+        }, 
+        {
+            "source": "830", 
+            "target": "719"
+        }, 
+        {
+            "source": "861", 
+            "target": "888"
+        }, 
+        {
+            "source": "719", 
+            "target": "805"
+        }, 
+        {
+            "source": "697", 
+            "target": "747"
+        }, 
+        {
+            "source": "880", 
+            "target": "819"
+        }, 
+        {
+            "source": "776", 
+            "target": "872"
+        }, 
+        {
+            "source": "830", 
+            "target": "856"
+        }, 
+        {
+            "source": "882", 
+            "target": "863"
+        }, 
+        {
+            "source": "863", 
+            "target": "856"
+        }, 
+        {
+            "source": "747", 
+            "target": "880"
+        }, 
+        {
+            "source": "880", 
+            "target": "805"
+        }, 
+        {
+            "source": "745", 
+            "target": "697"
+        }, 
+        {
+            "source": "774", 
+            "target": "823"
+        }, 
+        {
+            "source": "810", 
+            "target": "719"
+        }, 
+        {
+            "source": "810", 
+            "target": "713"
+        }, 
+        {
+            "source": "856", 
+            "target": "800"
+        }, 
+        {
+            "source": "880", 
+            "target": "828"
+        }, 
+        {
+            "source": "769", 
+            "target": "856"
+        }, 
+        {
+            "source": "828", 
+            "target": "800"
+        }, 
+        {
+            "source": "840", 
+            "target": "828"
+        }, 
+        {
+            "source": "869", 
+            "target": "769"
+        }, 
+        {
+            "source": "828", 
+            "target": "708"
+        }, 
+        {
+            "source": "819", 
+            "target": "774"
+        }, 
+        {
+            "source": "772", 
+            "target": "719"
+        }, 
+        {
+            "source": "769", 
+            "target": "798"
+        }, 
+        {
+            "source": "870", 
+            "target": "858"
+        }, 
+        {
+            "source": "713", 
+            "target": "840"
+        }, 
+        {
+            "source": "719", 
+            "target": "745"
+        }, 
+        {
+            "source": "776", 
+            "target": "887"
+        }, 
+        {
+            "source": "823", 
+            "target": "800"
+        }, 
+        {
+            "source": "810", 
+            "target": "745"
+        }, 
+        {
+            "source": "885", 
+            "target": "874"
+        }, 
+        {
+            "source": "819", 
+            "target": "805"
+        }, 
+        {
+            "source": "878", 
+            "target": "856"
+        }, 
+        {
+            "source": "825", 
+            "target": "864"
+        }, 
+        {
+            "source": "876", 
+            "target": "882"
+        }, 
+        {
+            "source": "819", 
+            "target": "840"
+        }, 
+        {
+            "source": "870", 
+            "target": "881"
+        }, 
+        {
+            "source": "873", 
+            "target": "874"
+        }, 
+        {
+            "source": "856", 
+            "target": "828"
+        }, 
+        {
+            "source": "878", 
+            "target": "804"
+        }, 
+        {
+            "source": "867", 
+            "target": "885"
+        }, 
+        {
+            "source": "885", 
+            "target": "887"
+        }, 
+        {
+            "source": "830", 
+            "target": "747"
+        }, 
+        {
+            "source": "713", 
+            "target": "719"
+        }, 
+        {
+            "source": "810", 
+            "target": "828"
+        }, 
+        {
+            "source": "805", 
+            "target": "819"
+        }, 
+        {
+            "source": "856", 
+            "target": "697"
+        }, 
+        {
+            "source": "805", 
+            "target": "747"
+        }, 
+        {
+            "source": "804", 
+            "target": "878"
+        }, 
+        {
+            "source": "823", 
+            "target": "713"
+        }, 
+        {
+            "source": "878", 
+            "target": "729"
+        }, 
+        {
+            "source": "861", 
+            "target": "753"
+        }, 
+        {
+            "source": "745", 
+            "target": "823"
+        }, 
+        {
+            "source": "878", 
+            "target": "861"
+        }, 
+        {
+            "source": "800", 
+            "target": "745"
+        }, 
+        {
+            "source": "828", 
+            "target": "772"
+        }, 
+        {
+            "source": "823", 
+            "target": "745"
+        }, 
+        {
+            "source": "895", 
+            "target": "858"
+        }, 
+        {
+            "source": "873", 
+            "target": "885"
+        }, 
+        {
+            "source": "713", 
+            "target": "697"
+        }, 
+        {
+            "source": "804", 
+            "target": "856"
+        }, 
+        {
+            "source": "878", 
+            "target": "863"
+        }, 
+        {
+            "source": "882", 
+            "target": "889"
+        }, 
+        {
+            "source": "880", 
+            "target": "803"
+        }, 
+        {
+            "source": "881", 
+            "target": "870"
+        }, 
+        {
+            "source": "863", 
+            "target": "878"
+        }, 
+        {
+            "source": "708", 
+            "target": "840"
+        }, 
+        {
+            "source": "872", 
+            "target": "874"
+        }, 
+        {
+            "source": "774", 
+            "target": "828"
+        }, 
+        {
+            "source": "828", 
+            "target": "747"
+        }, 
+        {
+            "source": "713", 
+            "target": "747"
+        }, 
+        {
+            "source": "856", 
+            "target": "889"
+        }, 
+        {
+            "source": "823", 
+            "target": "697"
+        }, 
+        {
+            "source": "708", 
+            "target": "774"
+        }, 
+        {
+            "source": "719", 
+            "target": "708"
+        }, 
+        {
+            "source": "856", 
+            "target": "830"
+        }, 
+        {
+            "source": "882", 
+            "target": "876"
+        }, 
+        {
+            "source": "863", 
+            "target": "876"
+        }, 
+        {
+            "source": "879", 
+            "target": "866"
+        }, 
+        {
+            "source": "747", 
+            "target": "828"
+        }, 
+        {
+            "source": "753", 
+            "target": "823"
+        }, 
+        {
+            "source": "863", 
+            "target": "886"
+        }, 
+        {
+            "source": "703", 
+            "target": "880"
+        }, 
+        {
+            "source": "745", 
+            "target": "713"
+        }, 
+        {
+            "source": "856", 
+            "target": "703"
+        }, 
+        {
+            "source": "823", 
+            "target": "747"
+        }, 
+        {
+            "source": "823", 
+            "target": "828"
+        }, 
+        {
+            "source": "800", 
+            "target": "811"
+        }, 
+        {
+            "source": "769", 
+            "target": "697"
+        }, 
+        {
+            "source": "874", 
+            "target": "872"
+        }, 
+        {
+            "source": "753", 
+            "target": "697"
+        }, 
+        {
+            "source": "895", 
+            "target": "866"
+        }, 
+        {
+            "source": "840", 
+            "target": "747"
+        }, 
+        {
+            "source": "879", 
+            "target": "870"
+        }, 
+        {
+            "source": "873", 
+            "target": "867"
+        }, 
+        {
+            "source": "828", 
+            "target": "769"
+        }, 
+        {
+            "source": "828", 
+            "target": "713"
+        }, 
+        {
+            "source": "868", 
+            "target": "862"
+        }, 
+        {
+            "source": "819", 
+            "target": "830"
+        }, 
+        {
+            "source": "880", 
+            "target": "747"
+        }, 
+        {
+            "source": "874", 
+            "target": "885"
+        }, 
+        {
+            "source": "719", 
+            "target": "828"
+        }, 
+        {
+            "source": "863", 
+            "target": "861"
+        }, 
+        {
+            "source": "713", 
+            "target": "828"
+        }, 
+        {
+            "source": "830", 
+            "target": "823"
+        }, 
+        {
+            "source": "830", 
+            "target": "805"
+        }, 
+        {
+            "source": "840", 
+            "target": "713"
+        }, 
+        {
+            "source": "745", 
+            "target": "774"
+        }, 
+        {
+            "source": "753", 
+            "target": "747"
+        }, 
+        {
+            "source": "869", 
+            "target": "708"
+        }, 
+        {
+            "source": "886", 
+            "target": "876"
+        }, 
+        {
+            "source": "895", 
+            "target": "870"
+        }, 
+        {
+            "source": "887", 
+            "target": "885"
+        }, 
+        {
+            "source": "800", 
+            "target": "769"
+        }, 
+        {
+            "source": "888", 
+            "target": "878"
+        }, 
+        {
+            "source": "747", 
+            "target": "745"
+        }, 
+        {
+            "source": "811", 
+            "target": "869"
+        }, 
+        {
+            "source": "828", 
+            "target": "774"
+        }, 
+        {
+            "source": "697", 
+            "target": "708"
+        }, 
+        {
+            "source": "876", 
+            "target": "804"
+        }, 
+        {
+            "source": "863", 
+            "target": "882"
+        }, 
+        {
+            "source": "862", 
+            "target": "865"
+        }, 
+        {
+            "source": "708", 
+            "target": "800"
+        }, 
+        {
+            "source": "772", 
+            "target": "697"
+        }, 
+        {
+            "source": "803", 
+            "target": "880"
+        }, 
+        {
+            "source": "810", 
+            "target": "774"
+        }, 
+        {
+            "source": "753", 
+            "target": "889"
+        }, 
+        {
+            "source": "713", 
+            "target": "830"
+        }, 
+        {
+            "source": "856", 
+            "target": "811"
+        }, 
+        {
+            "source": "857", 
+            "target": "865"
+        }, 
+        {
+            "source": "840", 
+            "target": "774"
+        }, 
+        {
+            "source": "774", 
+            "target": "840"
+        }, 
+        {
+            "source": "697", 
+            "target": "805"
+        }, 
+        {
+            "source": "729", 
+            "target": "886"
+        }, 
+        {
+            "source": "800", 
+            "target": "828"
+        }, 
+        {
+            "source": "719", 
+            "target": "823"
+        }, 
+        {
+            "source": "747", 
+            "target": "703"
+        }, 
+        {
+            "source": "703", 
+            "target": "856"
+        }, 
+        {
+            "source": "804", 
+            "target": "861"
+        }, 
+        {
+            "source": "858", 
+            "target": "871"
+        }, 
+        {
+            "source": "874", 
+            "target": "776"
+        }, 
+        {
+            "source": "881", 
+            "target": "866"
+        }, 
+        {
+            "source": "862", 
+            "target": "868"
+        }, 
+        {
+            "source": "800", 
+            "target": "708"
+        }, 
+        {
+            "source": "708", 
+            "target": "856"
+        }, 
+        {
+            "source": "769", 
+            "target": "753"
+        }, 
+        {
+            "source": "865", 
+            "target": "862"
+        }, 
+        {
+            "source": "805", 
+            "target": "823"
+        }, 
+        {
+            "source": "805", 
+            "target": "810"
+        }, 
+        {
+            "source": "856", 
+            "target": "861"
+        }, 
+        {
+            "source": "840", 
+            "target": "856"
+        }, 
+        {
+            "source": "729", 
+            "target": "861"
+        }, 
+        {
+            "source": "862", 
+            "target": "857"
+        }, 
+        {
+            "source": "719", 
+            "target": "703"
+        }, 
+        {
+            "source": "828", 
+            "target": "805"
+        }, 
+        {
+            "source": "745", 
+            "target": "828"
+        }, 
+        {
+            "source": "857", 
+            "target": "871"
+        }, 
+        {
+            "source": "713", 
+            "target": "772"
+        }, 
+        {
+            "source": "719", 
+            "target": "830"
+        }, 
+        {
+            "source": "856", 
+            "target": "774"
+        }, 
+        {
+            "source": "800", 
+            "target": "772"
+        }, 
+        {
+            "source": "881", 
+            "target": "895"
+        }, 
+        {
+            "source": "893", 
+            "target": "884"
+        }, 
+        {
+            "source": "697", 
+            "target": "840"
+        }, 
+        {
+            "source": "882", 
+            "target": "856"
+        }, 
+        {
+            "source": "885", 
+            "target": "867"
+        }, 
+        {
+            "source": "713", 
+            "target": "800"
+        }, 
+        {
+            "source": "804", 
+            "target": "729"
+        }, 
+        {
+            "source": "863", 
+            "target": "729"
+        }, 
+        {
+            "source": "747", 
+            "target": "840"
+        }, 
+        {
+            "source": "895", 
+            "target": "871"
+        }, 
+        {
+            "source": "856", 
+            "target": "893"
+        }, 
+        {
+            "source": "876", 
+            "target": "861"
+        }, 
+        {
+            "source": "856", 
+            "target": "876"
+        }, 
+        {
+            "source": "864", 
+            "target": "884"
+        }, 
+        {
+            "source": "863", 
+            "target": "888"
+        }, 
+        {
+            "source": "867", 
+            "target": "887"
+        }, 
+        {
+            "source": "774", 
+            "target": "713"
+        }, 
+        {
+            "source": "828", 
+            "target": "840"
+        }, 
+        {
+            "source": "888", 
+            "target": "856"
+        }, 
+        {
+            "source": "830", 
+            "target": "828"
+        }, 
+        {
+            "source": "708", 
+            "target": "890"
+        }, 
+        {
+            "source": "861", 
+            "target": "856"
+        }, 
+        {
+            "source": "870", 
+            "target": "879"
+        }, 
+        {
+            "source": "876", 
+            "target": "878"
+        }, 
+        {
+            "source": "894", 
+            "target": "866"
+        }, 
+        {
+            "source": "876", 
+            "target": "888"
+        }, 
+        {
+            "source": "889", 
+            "target": "876"
+        }, 
+        {
+            "source": "857", 
+            "target": "862"
+        }, 
+        {
+            "source": "879", 
+            "target": "871"
+        }, 
+        {
+            "source": "863", 
+            "target": "889"
+        }, 
+        {
+            "source": "890", 
+            "target": "697"
+        }, 
+        {
+            "source": "729", 
+            "target": "878"
+        }, 
+        {
+            "source": "747", 
+            "target": "753"
+        }, 
+        {
+            "source": "805", 
+            "target": "719"
+        }, 
+        {
+            "source": "858", 
+            "target": "870"
+        }, 
+        {
+            "source": "745", 
+            "target": "719"
+        }, 
+        {
+            "source": "713", 
+            "target": "745"
+        }, 
+        {
+            "source": "819", 
+            "target": "856"
+        }, 
+        {
+            "source": "805", 
+            "target": "774"
+        }, 
+        {
+            "source": "798", 
+            "target": "769"
+        }, 
+        {
+            "source": "708", 
+            "target": "828"
+        }, 
+        {
+            "source": "729", 
+            "target": "889"
+        }, 
+        {
+            "source": "800", 
+            "target": "830"
+        }, 
+        {
+            "source": "830", 
+            "target": "774"
+        }, 
+        {
+            "source": "769", 
+            "target": "708"
+        }, 
+        {
+            "source": "776", 
+            "target": "885"
+        }, 
+        {
+            "source": "886", 
+            "target": "882"
+        }, 
+        {
+            "source": "867", 
+            "target": "873"
+        }, 
+        {
+            "source": "747", 
+            "target": "708"
+        }, 
+        {
+            "source": "819", 
+            "target": "697"
+        }, 
+        {
+            "source": "861", 
+            "target": "878"
+        }, 
+        {
+            "source": "893", 
+            "target": "864"
+        }, 
+        {
+            "source": "697", 
+            "target": "713"
+        }, 
+        {
+            "source": "805", 
+            "target": "703"
+        }, 
+        {
+            "source": "774", 
+            "target": "819"
+        }, 
+        {
+            "source": "753", 
+            "target": "861"
+        }, 
+        {
+            "source": "858", 
+            "target": "895"
+        }, 
+        {
+            "source": "703", 
+            "target": "823"
+        }, 
+        {
+            "source": "856", 
+            "target": "882"
+        }, 
+        {
+            "source": "874", 
+            "target": "867"
+        }, 
+        {
+            "source": "877", 
+            "target": "885"
+        }, 
+        {
+            "source": "805", 
+            "target": "697"
+        }, 
+        {
+            "source": "719", 
+            "target": "747"
+        }, 
+        {
+            "source": "805", 
+            "target": "828"
+        }, 
+        {
+            "source": "747", 
+            "target": "800"
+        }, 
+        {
+            "source": "823", 
+            "target": "880"
+        }, 
+        {
+            "source": "804", 
+            "target": "747"
+        }, 
+        {
+            "source": "804", 
+            "target": "886"
+        }, 
+        {
+            "source": "805", 
+            "target": "840"
+        }, 
+        {
+            "source": "713", 
+            "target": "708"
+        }, 
+        {
+            "source": "811", 
+            "target": "774"
+        }, 
+        {
+            "source": "889", 
+            "target": "882"
+        }, 
+        {
+            "source": "878", 
+            "target": "876"
+        }, 
+        {
+            "source": "825", 
+            "target": "856"
+        }, 
+        {
+            "source": "888", 
+            "target": "863"
+        }, 
+        {
+            "source": "823", 
+            "target": "819"
+        }, 
+        {
+            "source": "880", 
+            "target": "703"
+        }, 
+        {
+            "source": "882", 
+            "target": "886"
+        }, 
+        {
+            "source": "877", 
+            "target": "776"
+        }, 
+        {
+            "source": "805", 
+            "target": "745"
+        }, 
+        {
+            "source": "776", 
+            "target": "877"
+        }, 
+        {
+            "source": "871", 
+            "target": "881"
+        }, 
+        {
+            "source": "819", 
+            "target": "713"
+        }, 
+        {
+            "source": "856", 
+            "target": "753"
+        }, 
+        {
+            "source": "719", 
+            "target": "800"
+        }, 
+        {
+            "source": "876", 
+            "target": "729"
+        }, 
+        {
+            "source": "840", 
+            "target": "819"
+        }, 
+        {
+            "source": "861", 
+            "target": "876"
+        }, 
+        {
+            "source": "804", 
+            "target": "889"
+        }, 
+        {
+            "source": "889", 
+            "target": "804"
+        }, 
+        {
+            "source": "828", 
+            "target": "719"
+        }, 
+        {
+            "source": "871", 
+            "target": "858"
+        }, 
+        {
+            "source": "889", 
+            "target": "861"
+        }, 
+        {
+            "source": "840", 
+            "target": "805"
+        }, 
+        {
+            "source": "769", 
+            "target": "747"
+        }, 
+        {
+            "source": "805", 
+            "target": "772"
+        }, 
+        {
+            "source": "888", 
+            "target": "729"
+        }, 
+        {
+            "source": "874", 
+            "target": "887"
+        }, 
+        {
+            "source": "840", 
+            "target": "719"
+        }, 
+        {
+            "source": "703", 
+            "target": "719"
+        }, 
+        {
+            "source": "753", 
+            "target": "819"
+        }, 
+        {
+            "source": "871", 
+            "target": "870"
+        }, 
+        {
+            "source": "810", 
+            "target": "805"
+        }, 
+        {
+            "source": "866", 
+            "target": "894"
+        }, 
+        {
+            "source": "889", 
+            "target": "863"
+        }, 
+        {
+            "source": "876", 
+            "target": "863"
+        }, 
+        {
+            "source": "697", 
+            "target": "769"
+        }, 
+        {
+            "source": "882", 
+            "target": "804"
+        }, 
+        {
+            "source": "856", 
+            "target": "729"
+        }, 
+        {
+            "source": "856", 
+            "target": "819"
+        }, 
+        {
+            "source": "774", 
+            "target": "830"
+        }, 
+        {
+            "source": "800", 
+            "target": "856"
+        }, 
+        {
+            "source": "858", 
+            "target": "881"
+        }, 
+        {
+            "source": "823", 
+            "target": "774"
+        }, 
+        {
+            "source": "830", 
+            "target": "819"
+        }
+    ], 
+    "nodes": [
+        {
+            "id": "698", 
+            "major": "Math ", 
+            "name": "698", 
+            "num_friends": 61, 
+            "shareFriend": "Total # of Friends61"
+        }, 
+        {
+            "id": "753", 
+            "major": "History ", 
+            "name": "753", 
+            "num_friends": 22, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "881", 
+            "major": "Chemistry ", 
+            "name": "881", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "769", 
+            "major": "ECE ", 
+            "name": "769", 
+            "num_friends": 24, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "708", 
+            "major": "Operation Research ", 
+            "name": "708", 
+            "num_friends": 34, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "745", 
+            "major": "Business ", 
+            "name": "745", 
+            "num_friends": 22, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "885", 
+            "major": "Business ", 
+            "name": "885", 
+            "num_friends": 16, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "884", 
+            "major": "ME ", 
+            "name": "884", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "858", 
+            "major": "Communication ", 
+            "name": "858", 
+            "num_friends": 8, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "889", 
+            "major": "Global Study ", 
+            "name": "889", 
+            "num_friends": 24, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "888", 
+            "major": "History ", 
+            "name": "888", 
+            "num_friends": 16, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "859", 
+            "major": "Communication ", 
+            "name": "859", 
+            "num_friends": 2, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "893", 
+            "major": "Math ", 
+            "name": "893", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "804", 
+            "major": "Music ", 
+            "name": "804", 
+            "num_friends": 22, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "887", 
+            "major": "Chinese Study ", 
+            "name": "887", 
+            "num_friends": 10, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "798", 
+            "major": "Chemistry ", 
+            "name": "798", 
+            "num_friends": 2, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "823", 
+            "major": "Physics ", 
+            "name": "823", 
+            "num_friends": 36, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "886", 
+            "major": "CS ", 
+            "name": "886", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "856", 
+            "major": "Chinese Study ", 
+            "name": "856", 
+            "num_friends": 58, 
+            "shareFriend": "40< # common friends <=70"
+        }, 
+        {
+            "id": "857", 
+            "major": "Music ", 
+            "name": "857", 
+            "num_friends": 8, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "697", 
+            "major": "History ", 
+            "name": "697", 
+            "num_friends": 34, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "878", 
+            "major": "Global Study ", 
+            "name": "878", 
+            "num_friends": 18, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "879", 
+            "major": "Psychology ", 
+            "name": "879", 
+            "num_friends": 10, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "876", 
+            "major": "Operation Research ", 
+            "name": "876", 
+            "num_friends": 20, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "877", 
+            "major": "Operation Research ", 
+            "name": "877", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "874", 
+            "major": "Education ", 
+            "name": "874", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "747", 
+            "major": "Chinese Study ", 
+            "name": "747", 
+            "num_friends": 42, 
+            "shareFriend": "40< # common friends <=70"
+        }, 
+        {
+            "id": "872", 
+            "major": "Economics ", 
+            "name": "872", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "873", 
+            "major": "Chinese Study ", 
+            "name": "873", 
+            "num_friends": 10, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "870", 
+            "major": "ME ", 
+            "name": "870", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "871", 
+            "major": "Education ", 
+            "name": "871", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "819", 
+            "major": "Music ", 
+            "name": "819", 
+            "num_friends": 30, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "810", 
+            "major": "Environment ", 
+            "name": "810", 
+            "num_friends": 20, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "811", 
+            "major": "Business ", 
+            "name": "811", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "882", 
+            "major": "ECE ", 
+            "name": "882", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "890", 
+            "major": "Physics ", 
+            "name": "890", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "774", 
+            "major": "Physics ", 
+            "name": "774", 
+            "num_friends": 34, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "776", 
+            "major": "Education ", 
+            "name": "776", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "894", 
+            "major": "Communication ", 
+            "name": "894", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "895", 
+            "major": "ECE ", 
+            "name": "895", 
+            "num_friends": 10, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "719", 
+            "major": "Communication ", 
+            "name": "719", 
+            "num_friends": 32, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "772", 
+            "major": "Communication ", 
+            "name": "772", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "713", 
+            "major": "History ", 
+            "name": "713", 
+            "num_friends": 30, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "830", 
+            "major": "Aviation ", 
+            "name": "830", 
+            "num_friends": 28, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "825", 
+            "major": "Environment ", 
+            "name": "825", 
+            "num_friends": 8, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "703", 
+            "major": "Chemistry ", 
+            "name": "703", 
+            "num_friends": 16, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "869", 
+            "major": "Physics ", 
+            "name": "869", 
+            "num_friends": 12, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "868", 
+            "major": "Operation Research ", 
+            "name": "868", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "840", 
+            "major": "Architecture ", 
+            "name": "840", 
+            "num_friends": 26, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "861", 
+            "major": "Economics ", 
+            "name": "861", 
+            "num_friends": 18, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "863", 
+            "major": "Math ", 
+            "name": "863", 
+            "num_friends": 20, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "862", 
+            "major": "Physics ", 
+            "name": "862", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "865", 
+            "major": "Physics ", 
+            "name": "865", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "864", 
+            "major": "Communication ", 
+            "name": "864", 
+            "num_friends": 8, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "867", 
+            "major": "Business ", 
+            "name": "867", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "866", 
+            "major": "Music ", 
+            "name": "866", 
+            "num_friends": 8, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "828", 
+            "major": "Communication ", 
+            "name": "828", 
+            "num_friends": 38, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "803", 
+            "major": "Civil Engineer ", 
+            "name": "803", 
+            "num_friends": 6, 
+            "shareFriend": "0< # common friends <10"
+        }, 
+        {
+            "id": "800", 
+            "major": "Civil Engineer ", 
+            "name": "800", 
+            "num_friends": 32, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "880", 
+            "major": "Aviation ", 
+            "name": "880", 
+            "num_friends": 14, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "805", 
+            "major": "Chinese Study ", 
+            "name": "805", 
+            "num_friends": 32, 
+            "shareFriend": "10< # common friends <=40"
+        }, 
+        {
+            "id": "729", 
+            "major": "Music ", 
+            "name": "729", 
+            "num_friends": 22, 
+            "shareFriend": "10< # common friends <=40"
+        }
+    ]
+}

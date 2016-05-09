@@ -1,0 +1,102 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Team 1 !!! </title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+    <header>
+    <br>
+    <h1>Team One</h1>
+    <h4>A tool that can visualize any social networks</h4>
+    <br>
+    </header>
+
+    <div id="song_selection" class="control">
+      <h3>Central Node</h3>
+      <select id="song_select">
+      <option value="data0.json">user 0</option>
+      <option value="data698.json">user 698</option>
+      <option value="data414.json">user 414</option>
+      <option value="data686.json">user 686</option>
+      <option value="data3980.json">user 3980</option>
+      </select>
+    </div>
+    <div id="controls">
+      <div id="layouts" class="control">
+        <br>
+        <br>
+        <h3>Layout</h3>
+        <a id="force" class="active">Force-directed</a>
+        <a id="radial1">Clustered</a>
+      </div>
+      <div id="filters" class="control">
+        <br>
+        <br>
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular (top 20%)</a>
+        <a id="obscure">Not poular</a>
+        <a id="hub">More than 100 friends</a>
+        <a id="isolate">Less than 20 friends</a>
+        <a id="selectMajor">Major: CS or Math</a>
+      </div>
+      <div id="sorts" class="control">
+        <br>
+        <h3>Group By</h3>
+        <a id="common" class="active"># common friends</a>
+        <a id="major" class="inactive">majors</a>
+        <!--<a id="links">Links</a>-->
+      </div>
+    <div id="main" role="main">
+      <div id="vis"></div>
+    </div>
+    <footer>
+    <p>CS 511 Project version 1.2.2</p>
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+
+  <script> // Change UA-XXXXX-X to be your site's ID
+    window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>
