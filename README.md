@@ -5,6 +5,4 @@ Using FireFox browser, load the index.html and you are free to manipulate the in
 
 
 
-
-
 	
